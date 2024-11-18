@@ -42,4 +42,5 @@ Este é um projeto de Sistema de Cadastro de Usuários desenvolvido utilizando *
    npm install
 3. Inicie a aplicação React:
    npm start
-
+### Demonstração
+![Demonstração do Projeto](https://github.com/souzarayane/crud-cadastro/blob/main/Anima%C3%A7%C3%A3o.gif)
